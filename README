@@ -1,0 +1,8 @@
+Here is assignment 4. Made a hex board and would randomly fill untillit was full.
+when it fills, it then finds a winner. sometimes red, sometimes blue because these
+ two players are not playing optimally since they are randomized. the code is pretty 
+generic so if you want, you can have a 13x13 or 5x5. all you have to do is change the 
+size in the constructor and the code in the hex_game.cpp, change the random num generator 
+from 1 to whatever the size is, so 5 or 11 or 13. i tried to generalize that too 
+but was running into problems like infinite loops. but it should be just fine for 
+11x11. cheers!
