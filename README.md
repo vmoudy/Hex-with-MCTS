@@ -1,1 +1,0 @@
-# Hex-with.MCTS
